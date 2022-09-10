@@ -1,0 +1,31 @@
+*{
+    background-color: powderblue;
+    color: black;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.quantity{
+    display: flex;
+}
+.btn{
+    padding: 20px 30px;
+    font-size: 20px;
+}
+.btn1{
+    background-color: antiquewhite;
+}
+.btn:hover{
+    background-color: brown;
+}
+.btn2{
+    background-color: rgb(89, 107, 209);
+}
+.btn3{
+    background-color: rgb(241, 169, 169);
+}
